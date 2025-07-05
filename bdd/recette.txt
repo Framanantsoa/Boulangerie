@@ -1,0 +1,199 @@
+Croissant :
+    Farine : 500 g
+    Beurre : 250 g 
+    Levure de boulanger : 10 g
+    Sucre : 50 g
+    Sel : 10 g
+    Lait : 250 mL 
+    Eau : 50 mL
+    Œufs : 1 pieces 
+
+Pain au chocolat :
+    Farine : 500 g
+    Beurre : 250 g
+    Levure de boulanger : 20 g
+    Sucre : 50 g
+    Sel : 10 g
+    Lait : 250 mL
+    Eau : 50 mL
+    Œuf : 1 
+    Chocolat : 200 g
+
+Chausson aux pommes :
+    Farine : 250 g
+    Beurre : 125 g
+    Sucre : 50 g
+    Sel : 5 g
+    Levure chimique : 10 g
+    Œuf : 1
+    Pommes : 300 g
+    Sucre : 50 g
+    Cannelle : 2g
+
+Brioche :
+    Farine : 500 g
+    Beurre : 150 g
+    Sucre : 100 g
+    Levure de boulanger : 20 g
+    Sel : 10 g
+    Lait : 250 mL
+    Œufs : 2 
+    Eau : 50 mL
+    Vanille : 2g
+
+Pain aux raisins :
+    Farine : 500 g
+    Beurre : 250 g
+    Levure de boulanger : 20 g
+    Sucre : 50 g
+    Sel : 10 g
+    Lait : 250 mL
+    Eau : 50 mL
+    Œufs : 2
+    Raisins secs : 200 g
+
+Baguette tradition :
+    Farine de blé : 500 g
+    Eau : 300 mL
+    Levure de boulanger : 10 g
+    Sel : 10 g
+    Sucre : 5 g
+
+Pain complet :
+    Farine de blé complète : 500 g
+    Eau : 300 mL
+    Levure de boulanger : 20 g
+    Sel : 10 g
+    Sucre : 10 g
+
+Pain de campagne :
+    Farine de blé : 500 g
+    Eau : 350 mL
+    Levure de boulanger : 15 g
+    Sel : 10 g
+    Sucre : 10 g
+    Farine de seigle : 100 g
+
+Pain aux céréales :
+    Farine de blé : 400 g
+    Farine de seigle : 100 g
+    Eau : 250 mL
+    Levure de boulanger : 20 g
+    Sel : 10 g
+    Graines de sésame: 60 g
+    Graines de tournesol: 20 g
+    Graines de lin: 20g
+    Sucre : 10 g
+
+Pain au levain :
+    Farine de blé : 500 g
+    Eau : 300 mL
+    Levain : 100 g
+    Sel : 10 g
+    Sucre : 5 g
+
+Éclair au chocolat :
+    Farine : 100 g
+    Beurre : 80 g
+    Eau : 250 mL
+    Œufs : 4
+    Sucre : 10 g
+    Sel : 1 pincée
+    Lait : 500 mL
+    Sucre : 100 g
+    Œufs : 4
+    Farine : 40 g
+    Chocolat noir : 100 g
+
+Tarte aux pommes :
+    Farine : 250 g
+    Beurre : 125 g
+    Sucre : 50 g
+    Sel : 1 pincée
+    Eau froide : 50 mL
+    Pommes : 500 g
+    Sucre : 50 g
+    Cannelle : 2g
+    Beurre : 20 g
+
+Mille-feuille :
+    Farine : 250 g
+    Beurre : 250 g
+    Eau : 125 mL
+    Sel : 1 pincée
+    Lait : 500 mL
+    Sucre : 100 g
+    Œufs : 4
+    Farine : 40 g
+    Vanille : 1 g
+    Sucre glace : 100 g
+
+Macaron :
+    Poudre d’amande : 125 g
+    Sucre glace : 125 g
+    Blancs d'œufs : 100 g
+    Sucre en poudre : 50 g
+    Crème liquide : 150 mL
+    Chocolat noir : 150 g
+    Beurre : 50 g
+
+Opéra :
+    Œufs : 4
+    Sucre : 100 g
+    Farine : 100 g
+    Poudre d’amande : 100 g
+    Beurre fondu : 50 g
+    Beurre : 200 g
+    Sucre glace : 100 g
+    Œufs : 2
+    Chocolat noir : 200 g
+    Crème liquide : 200 mL
+    Café : 100 mL
+    Sucre : 50 g
+
+Quiche lorraine :
+    Farine : 250 g
+    Beurre : 125 g
+    Sucre : 50 g
+    Sel : 1 pincée
+    Eau froide : 50 mL
+    Lardons : 150 g
+    Crème fraîche épaisse : 200 mL
+    Œufs : 3
+    Lait : 100 mL
+    Fromage râpé : 50 g
+    Sel : 1 pincée
+    Poivre: 1 pincée
+
+Pizza Margherita :
+    Farine de blé : 250 g
+    Eau : 150 mL
+    Levure de boulanger : 10 g
+    Sel : 5 g
+    Huile d'olive : 45 mL
+    Tomates concassées : 200 g
+    Ail : 1 gousse
+    poivre : 5g
+    Mozzarella : 150 g
+
+Jus d'orange :
+    Oranges : 500 mL
+    Sucre : 30 g
+    Eau : 100 mL
+
+Chocolat chaud :
+    Lait : 250 mL
+    Chocolat noir : 50 g
+    Sucre : 30 g
+
+Thé vert :
+    Thé vert : 2 g
+    Eau : 250 mL
+    Sucre : 15 g
+
+Smoothie aux fruits rouges :
+    Fruits rouges : 150 g
+    Banane : 1
+    Yaourt nature : 200 mL
+    Miel : 25 mL
+    Glace pilée : 100 g
